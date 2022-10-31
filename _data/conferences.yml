@@ -1,4 +1,4 @@
----
+---  
 - title: IROS
   year: 2023
   id: iros23
@@ -26,6 +26,18 @@
   hindex: -1
   sub: KR
   note: Mandatory abstract deadline on March 07, 2023. More info <a href='https://kr.org/KR2023/'>here</a>.
+
+- title: Ai4 2023
+  year: 2023
+  id: ai42023
+  link: https://ai4.io/usa
+  deadline: '2023-05-01 23:59:59'
+  timezone: America/Los_Angeles
+  place: Las Vegas, USA
+  date: August 07-09, 2023
+  start: 2023-08-07
+  end: 2023-08-09
+  sub: ML
 
 - title: ICAPS
   year: 2023
